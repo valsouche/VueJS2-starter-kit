@@ -1,6 +1,8 @@
 # VueJS2-starter-kit
-A <a href="https://vuejs.org/">VueJS 2</a> starter kit with routing and custom gallery component examples.
-This is based on vue-cli --> webpack-simple
+>A <a href="https://vuejs.org/">VueJS 2</a> starter kit with routing and custom gallery component examples.
+>This is based on vue-cli --> webpack-simple
+
+This project use Zurb foundation CSS & Javascript.
 
 I added some addon to make it more easy to start.
 
@@ -18,7 +20,12 @@ All infos: http://router.vuejs.org/en/index.html
 All is writing with new ES6 syntax <3
 
 ##Webpack & Babel
+Modules & ES6 syntax.
 
+##Styles
+I am using Zurb foundation CSS & JS Framework in this project.
+You can easy change it with Bootstrap or other.
+The Gallery component styles are directly in component, thank to that, we have a really standalone foundation picture gallery.
 
 ##Get started
 ``` bash
